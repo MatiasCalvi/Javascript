@@ -12,7 +12,7 @@ else{
 
 num1=12
 num1=13
-if(num1==num2){
+if(num1===num2){
     console.log("%d es igual a %d ",num1,num2)
 }
 else{
